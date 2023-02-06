@@ -14,3 +14,7 @@
 * Vul je Alias in en klik op **Dat ben ik!**:<br/>
 ![vul-je-alias-in](images/vul-je-alias-in.PNG)
 
+## TinkerCAD opdrachten
+
+Ga naar de website van CoderDojo KopGroep: [https://www.coderdojo-kopgroep.nl/opdrachten/#LeerpadTinkerCAD](https://www.coderdojo-kopgroep.nl/opdrachten/#LeerpadTinkerCAD)
+
